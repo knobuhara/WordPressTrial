@@ -1,3 +1,3 @@
 # WordPressTrial
 
-#### AWSでサーバーを立てました　http://nobuhara.tk
+#### AWSでサーバーを立てました　http://nobuhara.tk/wordpress
